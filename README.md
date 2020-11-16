@@ -38,7 +38,8 @@ This integration allows to:
       users:read
       users:read.email
       ```
-  * Add app to Slack channel.
+  * Add app to Slack channel. (Open Slack channel and @mention bot, or invite to channel).
+  * Enable app iteractivity (for refresh button). Enter the Heroku URL in the Request URL field.
 
 2. [Deploy to Heroku](https://heroku.com/deploy?template=https://github.com/fs/harvest-notifier)
 
